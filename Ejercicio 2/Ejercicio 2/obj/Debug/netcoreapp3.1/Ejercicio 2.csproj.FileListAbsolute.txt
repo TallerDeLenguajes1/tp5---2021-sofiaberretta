@@ -1,0 +1,13 @@
+D:\Facultad\2021\Taller de Lenguajes I\tp5---2021-sofiaberretta\Ejercicio 2\Ejercicio 2\bin\Debug\netcoreapp3.1\Ejercicio 2.exe
+D:\Facultad\2021\Taller de Lenguajes I\tp5---2021-sofiaberretta\Ejercicio 2\Ejercicio 2\bin\Debug\netcoreapp3.1\Ejercicio 2.deps.json
+D:\Facultad\2021\Taller de Lenguajes I\tp5---2021-sofiaberretta\Ejercicio 2\Ejercicio 2\bin\Debug\netcoreapp3.1\Ejercicio 2.runtimeconfig.json
+D:\Facultad\2021\Taller de Lenguajes I\tp5---2021-sofiaberretta\Ejercicio 2\Ejercicio 2\bin\Debug\netcoreapp3.1\Ejercicio 2.runtimeconfig.dev.json
+D:\Facultad\2021\Taller de Lenguajes I\tp5---2021-sofiaberretta\Ejercicio 2\Ejercicio 2\bin\Debug\netcoreapp3.1\Ejercicio 2.dll
+D:\Facultad\2021\Taller de Lenguajes I\tp5---2021-sofiaberretta\Ejercicio 2\Ejercicio 2\bin\Debug\netcoreapp3.1\Ejercicio 2.pdb
+D:\Facultad\2021\Taller de Lenguajes I\tp5---2021-sofiaberretta\Ejercicio 2\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.csprojAssemblyReference.cache
+D:\Facultad\2021\Taller de Lenguajes I\tp5---2021-sofiaberretta\Ejercicio 2\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.AssemblyInfoInputs.cache
+D:\Facultad\2021\Taller de Lenguajes I\tp5---2021-sofiaberretta\Ejercicio 2\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.AssemblyInfo.cs
+D:\Facultad\2021\Taller de Lenguajes I\tp5---2021-sofiaberretta\Ejercicio 2\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.csproj.CoreCompileInputs.cache
+D:\Facultad\2021\Taller de Lenguajes I\tp5---2021-sofiaberretta\Ejercicio 2\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.dll
+D:\Facultad\2021\Taller de Lenguajes I\tp5---2021-sofiaberretta\Ejercicio 2\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.pdb
+D:\Facultad\2021\Taller de Lenguajes I\tp5---2021-sofiaberretta\Ejercicio 2\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.genruntimeconfig.cache
